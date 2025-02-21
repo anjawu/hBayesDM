@@ -44,7 +44,7 @@ BugReports: https://github.com/CCS-Lab/hBayesDM/issues
 License: GPL-3
 NeedsCompilation: yes
 Encoding: UTF-8
-RoxygenNote: 7.2.1
+RoxygenNote: 7.3.2
 SystemRequirements: GNU make
 Collate:
     'HDIofMCMC.R'
@@ -91,9 +91,12 @@ Collate:
     'gng_m4.R'
     'hBayesDM.R'
     'igt_orl.R'
+    'igt_orl_sigmainvgam.R'
     'igt_pvl_decay.R'
     'igt_pvl_delta.R'
+    'igt_pvl_delta_sigmainvgam.R'
     'igt_vpp.R'
+    'igt_vpp_sigmainvgam.R'
     'multiplot.R'
     'peer_ocu.R'
     'plot.hBayesDM.R'
