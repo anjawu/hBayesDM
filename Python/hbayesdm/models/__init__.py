@@ -32,9 +32,12 @@ from ._gng_m2 import gng_m2
 from ._gng_m3 import gng_m3
 from ._gng_m4 import gng_m4
 from ._igt_orl import igt_orl
+from ._igt_orl_sigmainvgam import igt_orl_sigmainvgam
 from ._igt_pvl_decay import igt_pvl_decay
 from ._igt_pvl_delta import igt_pvl_delta
+from ._igt_pvl_delta_sigmainvgam import igt_pvl_delta_sigmainvgam
 from ._igt_vpp import igt_vpp
+from ._igt_vpp_sigmainvgam import igt_vpp_sigmainvgam
 from ._peer_ocu import peer_ocu
 from ._prl_ewa import prl_ewa
 from ._prl_fictitious import prl_fictitious
@@ -96,9 +99,12 @@ __all__ = [
     'gng_m3',
     'gng_m4',
     'igt_orl',
+    'igt_orl_sigmainvgam',
     'igt_pvl_decay',
     'igt_pvl_delta',
+    'igt_pvl_delta_sigmainvgam',
     'igt_vpp',
+    'igt_vpp_sigmainvgam',
     'peer_ocu',
     'prl_ewa',
     'prl_fictitious',
